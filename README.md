@@ -1,2 +1,2 @@
 # Image-Steganography-using-lsb
-Involves embedding a secret message in an image
+Involves encoding a secret message in an image and decoding it also.
